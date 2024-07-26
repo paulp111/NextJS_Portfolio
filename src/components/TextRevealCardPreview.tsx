@@ -15,11 +15,10 @@ export function TextRevealCardPreview() {
         revealText="I know the chemistry"
       >
         <TextRevealCardTitle>
-          Sometimes, you just need to see it.
+          Say my name
         </TextRevealCardTitle>
         <TextRevealCardDescription>
-          This is a text reveal card. Hover over the card to reveal the hidden
-          text.
+        Just kidding, I&rsquo;m not Heisenberg. Still there&rsquo;s a similarity...
         </TextRevealCardDescription>
       </TextRevealCard>
     </div>
